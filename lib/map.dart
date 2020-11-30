@@ -27,7 +27,6 @@ class _SpotsMapState extends State<SpotsMap> {
       );
     });
     setState(() {
-      _markers.clear();
       _markers = markers.toSet();
     });
   }
