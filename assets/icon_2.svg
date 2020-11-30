@@ -14,7 +14,7 @@
    id="svg6"
    sodipodi:docname="icon_2.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   inkscape:export-filename="C:\Users\magnattic\code\playground\dogspots\lib\assets\location.png"
+   inkscape:export-filename="C:\Users\magnattic\code\playground\dogspots\assets\icon.png"
    inkscape:export-xdpi="3072"
    inkscape:export-ydpi="3072">
   <metadata
@@ -45,59 +45,67 @@
      id="namedview8"
      showgrid="false"
      inkscape:zoom="20.721237"
-     inkscape:cx="13.250555"
+     inkscape:cx="-3.1818618"
      inkscape:cy="15.906371"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6"
-     inkscape:document-rotation="0" />
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     inkscape:snap-page="true" />
   <title
      id="title2">location</title>
   <g
-     id="g86"
-     transform="translate(0,2)">
-    <ellipse
-       style="fill:#000000;stroke-width:1.17962"
-       id="path16"
-       cx="7.5"
-       cy="7"
-       rx="2.5"
-       ry="3.5" />
-    <ellipse
-       style="fill:#000000;stroke-width:1.17962"
-       id="path16-3"
-       cx="24.5"
-       cy="7"
-       rx="2.5"
-       ry="3.5" />
-    <ellipse
-       style="fill:#000000;stroke-width:1.17962"
-       id="path16-3-4"
-       cx="19"
-       cy="3.5"
-       rx="2.5"
-       ry="3.5" />
-    <ellipse
-       style="fill:#000000;stroke-width:1.17962"
-       id="path16-3-4-5"
-       cx="13"
-       cy="3.5"
-       rx="2.5"
-       ry="3.5" />
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Background"
+     style="display:none">
+    <circle
+       style="fill:#ffffff;stroke-width:1.01544"
+       id="path117"
+       cx="16"
+       cy="16"
+       r="16" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Logo">
     <g
-       id="g77">
+       id="g113"
+       style="fill:#008000">
+      <ellipse
+         style="fill:#008000;stroke-width:1.17962"
+         id="path16"
+         cx="7.5"
+         cy="9"
+         rx="2.5"
+         ry="3.5" />
+      <ellipse
+         style="fill:#008000;stroke-width:1.17962"
+         id="path16-3"
+         cx="24.5"
+         cy="9"
+         rx="2.5"
+         ry="3.5" />
+      <ellipse
+         style="fill:#008000;stroke-width:1.17962"
+         id="path16-3-4"
+         cx="19"
+         cy="5.5"
+         rx="2.5"
+         ry="3.5" />
+      <ellipse
+         style="fill:#008000;stroke-width:1.17962"
+         id="path16-3-4-5"
+         cx="13"
+         cy="5.5"
+         rx="2.5"
+         ry="3.5" />
       <path
-         d="M 15.8125,6.9838001 C 11.497656,6.9838001 8,10.022331 8,13.770781 c 0,6.786982 7.8125,14.931361 7.8125,14.931361 0,0 7.8125,-8.144379 7.8125,-14.931361 0,-3.74845 -3.497656,-6.7869809 -7.8125,-6.7869809 z"
          id="path21"
-         style="fill:#000000;stroke-width:0.728171"
-         sodipodi:nodetypes="sscss" />
-      <circle
-         style="fill:#ffffff;stroke-width:0.817259"
-         id="path58"
-         cx="15.742614"
-         cy="14.770235"
-         r="3.8849032" />
+         style="fill:#008000;stroke-width:0.679626"
+         d="m 15.8125,10.383905 c -4.314844,0 -7.8125,2.647009 -7.8125,5.912324 0,5.912214 7.8125,13.005413 7.8125,13.005413 0,0 7.8125,-7.093199 7.8125,-13.005413 0,-3.265315 -3.497656,-5.912324 -7.8125,-5.912324 z m -0.07031,3.397673 a 3.8849032,3.3841811 0 0 1 3.884765,3.384061 3.8849032,3.3841811 0 0 1 -3.884765,3.384061 3.8849032,3.3841811 0 0 1 -3.884766,-3.384061 3.8849032,3.3841811 0 0 1 3.884766,-3.384061 z" />
     </g>
   </g>
 </svg>
