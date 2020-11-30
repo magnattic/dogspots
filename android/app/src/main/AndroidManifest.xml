@@ -1,11 +1,17 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.dogspots">
+    package="app.dogspots">
+    
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
    <application
-        android:label="dogspots"
+        android:label="DogSpots"
         android:icon="@mipmap/ic_launcher">
 
-          <meta-data android:name="com.google.android.geo.API_KEY"
-                  android:value="${MAPS_API_KEY}"/>
+        <meta-data android:name="com.google.android.geo.API_KEY"
+                android:value="${MAPS_API_KEY}"/>
+
+                
 
         <activity
             android:name=".MainActivity"
