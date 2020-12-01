@@ -5,8 +5,8 @@
   <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 
    <application
-        android:label="DogSpots"
-        android:icon="@mipmap/launcher_icon">
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name">
 
         <meta-data android:name="com.google.android.geo.API_KEY"
                 android:value="${MAPS_API_KEY}"/>
@@ -15,6 +15,7 @@
 
         <activity
             android:name=".MainActivity"
+            android:label="@string/app_name"
             android:launchMode="singleTop"
             android:theme="@style/LaunchTheme"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
