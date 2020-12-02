@@ -14,7 +14,7 @@
    id="svg6"
    sodipodi:docname="icon_2.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   inkscape:export-filename="C:\Users\magnattic\code\playground\dogspots\assets\icon.png"
+   inkscape:export-filename="C:\Users\magnattic\code\playground\dogspots\assets\icon_circle.png"
    inkscape:export-xdpi="3072"
    inkscape:export-ydpi="3072">
   <metadata
@@ -59,7 +59,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Background"
-     style="display:none">
+     style="display:inline">
     <circle
        style="fill:#ffffff;stroke-width:1.01544"
        id="path117"

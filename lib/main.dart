@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:permission_handler/permission_handler.dart';
 
 void setPermissions() async {
-  Map<Permission, PermissionStatus> statuses = await [
+  var statuses = await [
     Permission.location,
   ].request();
   print(statuses[Permission.location]);
